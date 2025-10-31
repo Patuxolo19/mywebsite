@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://patuxolo19.github.io/mywebsite/sitemap.xml
